@@ -27,7 +27,8 @@ external:                  # shows a footer with social links - for available ic
 comments:
 disqus_shortname: "mdymetman"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
-disqus: True
+disqus: true
+comments: true
 
 Plugins:
  - jekyll-feed
