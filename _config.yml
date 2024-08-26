@@ -1,4 +1,4 @@
-title: "Marc's Blog"
+title: "Marc's Blog Test"
 author: "Marc Dymetman"
 description: "Made with Jekyll/contrast"
 permalink: /:title/
@@ -28,7 +28,7 @@ comments:
 disqus_shortname: "mdymetman"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 disqus: true
-comments: true
+
 
 Plugins:
  - jekyll-feed
