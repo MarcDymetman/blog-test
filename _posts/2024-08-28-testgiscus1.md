@@ -6,7 +6,7 @@ giscus: True
 
 
 
-Nous allons essayer giscus
+Nous allons essayer giscus, d'accord?
 
 $$E=mc^2$$
 
